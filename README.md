@@ -1,7 +1,7 @@
 # Snippetmania
 
 ## Contents
-
+- [All](https://gist.github.com/search?q=%23snippetmainiablog&ref=searchresults)
 - [Php](#php)
 - [js](#js)
 
