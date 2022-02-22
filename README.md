@@ -11,7 +11,7 @@
 
 
 ## Js
-- [Garbage Collector](https://gist.github.com/thedom85/a564854a3f19c7eae87d5b17c6ca6b05)
+- [Force the Garbage Collector](https://gist.github.com/thedom85/a564854a3f19c7eae87d5b17c6ca6b05)
 - [Easy-Timer-Countdown](https://gist.github.com/thedom85/e928d6ec406cefbe11d961ccc2e2a6c6)
 - [String Multibyte PHP vs js](https://gist.github.com/thedom85/fb4aa87e69601a0ca6d96d4eb1be6317)
 - [Cypress example test_post](https://gist.github.com/thedom85/c1cd7e8993fb50cc5606e775b802cba0)  
@@ -28,6 +28,7 @@
 
 ## Php
 - [Substring how to avoid errors](https://gist.github.com/thedom85/fb4aa87e69601a0ca6d96d4eb1be6317)
+- [Force the Garbage Collector](https://gist.github.com/thedom85/57516b64073ba2964e94f645950529f3)
 
 ## Windows
 - [Time Sync](https://gist.github.com/thedom85/dbeb58627adfb3d5c3af)
