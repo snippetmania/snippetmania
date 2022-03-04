@@ -11,6 +11,7 @@
 
 
 ## Js
+- [How do invoke script with another node script](https://gist.github.com/thedom85/1c4ab7026ae72141134d6ef1660a42d8)
 - [Force the Garbage Collector](https://gist.github.com/thedom85/a564854a3f19c7eae87d5b17c6ca6b05)
 - [Easy-Timer-Countdown](https://gist.github.com/thedom85/e928d6ec406cefbe11d961ccc2e2a6c6)
 - [String Multibyte PHP vs js](https://gist.github.com/thedom85/fb4aa87e69601a0ca6d96d4eb1be6317)
