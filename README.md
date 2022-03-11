@@ -11,6 +11,7 @@
 
 
 ## Js
+- [How copy file and zip](https://gist.github.com/thedom85/fe4e09abcf6e6a4b7b50e4e70065f16d)
 - [How do invoke script with another node script](https://gist.github.com/thedom85/1c4ab7026ae72141134d6ef1660a42d8)
 - [Force the Garbage Collector](https://gist.github.com/thedom85/a564854a3f19c7eae87d5b17c6ca6b05)
 - [Easy-Timer-Countdown](https://gist.github.com/thedom85/e928d6ec406cefbe11d961ccc2e2a6c6)
