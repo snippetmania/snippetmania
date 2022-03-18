@@ -6,6 +6,7 @@
 - [MySql](#js)
 - [Php](#php)
 - [Windows](#js)
+- [Linux](#linux)
 
 
 
@@ -35,3 +36,6 @@
 
 ## Windows
 - [Time Sync](https://gist.github.com/thedom85/dbeb58627adfb3d5c3af)
+
+## Linux
+-[Cron Setting](https://gist.github.com/thedom85/ee884a702802efdbf2b88321f80fa24f)
