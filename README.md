@@ -2,6 +2,7 @@
 
 ## Contents
 - [All articles](https://gist.github.com/search?q=%23snippetmainiablog&ref=searchresults)
+- [Kata](#kata)
 - [Js](#js)
 - [MySql](#js)
 - [Php](#php)
@@ -9,7 +10,8 @@
 - [Linux](#linux)
 
 
-
+## Kata
+- [codewars - Dot Calculator ](https://gist.github.com/thedom85/fe4e09abcf6e6a4b7b50e4e70065f16d)
 
 ## Js
 - [Copy file and zip](https://gist.github.com/thedom85/fe4e09abcf6e6a4b7b50e4e70065f16d)
