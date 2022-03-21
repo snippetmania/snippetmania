@@ -11,7 +11,7 @@
 
 
 ## Kata
-- [codewars - Dot Calculator ](https://gist.github.com/thedom85/fe4e09abcf6e6a4b7b50e4e70065f16d)
+- [Codewars - Dot Calculator ](https://gist.github.com/thedom85/13417badfe5c26a7d04bfbdcb52c1c68)
 
 ## Js
 - [Copy file and zip](https://gist.github.com/thedom85/fe4e09abcf6e6a4b7b50e4e70065f16d)
