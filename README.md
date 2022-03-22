@@ -2,16 +2,14 @@
 
 ## Contents
 - [All articles](https://gist.github.com/search?q=%23snippetmainiablog&ref=searchresults)
-- [Kata](#kata)
 - [Js](#js)
 - [MySql](#js)
 - [Php](#php)
 - [Windows](#js)
 - [Linux](#linux)
+- [Kata](#kata)
 
 
-## Kata
-- [Codewars - Dot Calculator ](https://gist.github.com/thedom85/13417badfe5c26a7d04bfbdcb52c1c68)
 
 ## Js
 - [Copy file and zip](https://gist.github.com/thedom85/fe4e09abcf6e6a4b7b50e4e70065f16d)
@@ -41,3 +39,7 @@
 
 ## Linux
 - [Cron](https://gist.github.com/thedom85/ee884a702802efdbf2b88321f80fa24f)
+
+## Kata
+- [Codewars - Dot Calculator ](https://gist.github.com/thedom85/13417badfe5c26a7d04bfbdcb52c1c68)
+
