@@ -12,6 +12,7 @@
 
 
 ## Js
+- [Get Args](https://gist.github.com/thedom85/d7e5bc23abcc59be694b869626bd78fe)
 - [Check SSL Certificate Authorized](https://gist.github.com/thedom85/5c4ccb351f7fa68875133914e32744ae)
 - [Copy file and zip](https://gist.github.com/thedom85/fe4e09abcf6e6a4b7b50e4e70065f16d)
 - [How do invoke script with another node script](https://gist.github.com/thedom85/1c4ab7026ae72141134d6ef1660a42d8)
