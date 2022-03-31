@@ -44,4 +44,5 @@
 
 ## Kata
 - [Codewars - Dot Calculator ](https://gist.github.com/thedom85/13417badfe5c26a7d04bfbdcb52c1c68)
+- [Codewars - DayOfYear ](https://gist.github.com/thedom85/cf5ef58bb6428677f49edeff51c1a007)
 
