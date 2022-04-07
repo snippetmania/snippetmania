@@ -47,6 +47,7 @@
 
 ## Linux
 - [Cron](https://gist.github.com/thedom85/ee884a702802efdbf2b88321f80fa24f)
+- [Grep](https://gist.github.com/thedom85/61742f3d555926f19fe63d91335cce10)
 
 ## Kata
 - [Codewars - Dot Calculator ](https://gist.github.com/thedom85/13417badfe5c26a7d04bfbdcb52c1c68)
