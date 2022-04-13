@@ -54,5 +54,5 @@
 - [Codewars - Dot Calculator ](https://gist.github.com/thedom85/13417badfe5c26a7d04bfbdcb52c1c68)
 - [Codewars - DayOfYear ](https://gist.github.com/thedom85/cf5ef58bb6428677f49edeff51c1a007)
 - [Codewars - String Ends With ](https://gist.github.com/thedom85/3026ba5a35b9cef72e978e6d81a6ba68)
-- [Codewars - kata js adder ](https://gist.github.com/thedom85/14abef073da99234a2daaedc85a02fef)
+- [Codewars - Matrix String Adder ](https://gist.github.com/thedom85/14abef073da99234a2daaedc85a02fef)
 
