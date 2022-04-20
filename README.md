@@ -2,7 +2,7 @@
 
 ## Contents
 - [All articles](https://gist.github.com/search?q=%23snippetmainiablog&ref=searchresults)
-- Algorithms(#Algorithms)
+- [Algorithms](#Algorithms)
 - [Js](#js)
 - [JsTest](#jstest)
 - [MySql](#js)
