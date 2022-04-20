@@ -2,6 +2,7 @@
 
 ## Contents
 - [All articles](https://gist.github.com/search?q=%23snippetmainiablog&ref=searchresults)
+- Algorithms(#Algorithms)
 - [Js](#js)
 - [JsTest](#jstest)
 - [MySql](#js)
@@ -11,6 +12,8 @@
 - [Kata](#kata)
 
 
+## Algorithms
+- [Ciphers - Rot13](https://gist.github.com/thedom85/b79cf86f06827ec727d591989cf36fd7)
 
 ## Js
 - [Get Args](https://gist.github.com/thedom85/d7e5bc23abcc59be694b869626bd78fe)
@@ -57,4 +60,5 @@
 - [Codewars - String Ends With ](https://gist.github.com/thedom85/3026ba5a35b9cef72e978e6d81a6ba68)
 - [Codewars - Matrix String Adder ](https://gist.github.com/thedom85/14abef073da99234a2daaedc85a02fef)
 - [Codewars - Tree To Array ](https://gist.github.com/thedom85/1e51f9df6ee0050a4288b47cd5937a72)
+- [Codewars - Ciphers - Rot13](https://gist.github.com/thedom85/b79cf86f06827ec727d591989cf36fd7)
 
