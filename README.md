@@ -62,5 +62,5 @@
 - [Codewars - Matrix String Adder ](https://gist.github.com/thedom85/14abef073da99234a2daaedc85a02fef)
 - [Codewars - Tree To Array ](https://gist.github.com/thedom85/1e51f9df6ee0050a4288b47cd5937a72)
 - [Codewars - Ciphers - Rot13](https://gist.github.com/thedom85/b79cf86f06827ec727d591989cf36fd7)
-- [Codewars - IsValidIP](https://gist.github.com/thedom85/4ad4cc95ea4808544fdb1ff268e83412)
+- [Codewars - Is - Valid - IP](https://gist.github.com/thedom85/4ad4cc95ea4808544fdb1ff268e83412)
 
