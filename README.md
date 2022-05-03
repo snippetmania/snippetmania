@@ -63,4 +63,5 @@
 - [Codewars - Tree To Array ](https://gist.github.com/thedom85/1e51f9df6ee0050a4288b47cd5937a72)
 - [Codewars - Ciphers - Rot13](https://gist.github.com/thedom85/b79cf86f06827ec727d591989cf36fd7)
 - [Codewars - Is - Valid - IP](https://gist.github.com/thedom85/4ad4cc95ea4808544fdb1ff268e83412)
+- [Codewars - Anagrams](https://gist.github.com/thedom85/eb90570a8d419f678c95696bb2235396)
 
