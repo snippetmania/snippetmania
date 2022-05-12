@@ -14,6 +14,7 @@
 
 ## Algorithms
 - [Ciphers - Rot13](https://gist.github.com/thedom85/b79cf86f06827ec727d591989cf36fd7)
+- [Conversions - RomanNumerals](https://gist.github.com/thedom85/0ca1d5ddf82e7b59cecec4ed6684f7b3)
 
 ## Js
 - [Get Args](https://gist.github.com/thedom85/d7e5bc23abcc59be694b869626bd78fe)
@@ -64,4 +65,5 @@
 - [Codewars - Ciphers - Rot13](https://gist.github.com/thedom85/b79cf86f06827ec727d591989cf36fd7)
 - [Codewars - Is - Valid - IP](https://gist.github.com/thedom85/4ad4cc95ea4808544fdb1ff268e83412)
 - [Codewars - Anagrams](https://gist.github.com/thedom85/eb90570a8d419f678c95696bb2235396)
+- [Codewars - RomanNumerals](https://gist.github.com/thedom85/0ca1d5ddf82e7b59cecec4ed6684f7b3)
 
