@@ -67,5 +67,7 @@
 - [Codewars - Anagrams](https://gist.github.com/thedom85/eb90570a8d419f678c95696bb2235396)
 - [Codewars - RomanNumerals](https://gist.github.com/thedom85/0ca1d5ddf82e7b59cecec4ed6684f7b3)
 - [Codewars - ValidParentheses](https://gist.github.com/thedom85/d10c08a3fe78ce32c4197f2bc450b2cc)
+- [Codewars - StripComments](https://gist.github.com/thedom85/45c182e6000355c5d519d71217cf1277)
+
 
 
