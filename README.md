@@ -14,6 +14,8 @@
 
 ## Algorithms
 - [Ciphers - Rot13](https://gist.github.com/thedom85/b79cf86f06827ec727d591989cf36fd7)
+- [Ciphers - Vigenère](https://gist.github.com/thedom85/0857ca4e205cd475027f55b964d71615)
+- [Ciphers - Vigenère - Basic](https://gist.github.com/thedom85/f2d5adc3530392d98aac3500f9d35258)
 - [Conversions - RomanNumerals](https://gist.github.com/thedom85/0ca1d5ddf82e7b59cecec4ed6684f7b3)
 
 ## Js
