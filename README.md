@@ -63,12 +63,13 @@
 - [Codewars - Matrix String Adder ](https://gist.github.com/thedom85/14abef073da99234a2daaedc85a02fef)
 - [Codewars - Tree To Array ](https://gist.github.com/thedom85/1e51f9df6ee0050a4288b47cd5937a72)
 - [Codewars - Ciphers - Rot13](https://gist.github.com/thedom85/b79cf86f06827ec727d591989cf36fd7)
+- [Codewars - Ciphers - Vigenère](https://gist.github.com/thedom85/0857ca4e205cd475027f55b964d71615)
 - [Codewars - Is - Valid - IP](https://gist.github.com/thedom85/4ad4cc95ea4808544fdb1ff268e83412)
+- [Codewars - SFM TCP](https://gist.github.com/thedom85/5a5be8f9eb56a5b86b047230c65774f9)
 - [Codewars - Anagrams](https://gist.github.com/thedom85/eb90570a8d419f678c95696bb2235396)
 - [Codewars - RomanNumerals](https://gist.github.com/thedom85/0ca1d5ddf82e7b59cecec4ed6684f7b3)
 - [Codewars - ValidParentheses](https://gist.github.com/thedom85/d10c08a3fe78ce32c4197f2bc450b2cc)
 - [Codewars - StripComments](https://gist.github.com/thedom85/45c182e6000355c5d519d71217cf1277)
-- [Codewars - SFM TCP](https://gist.github.com/thedom85/5a5be8f9eb56a5b86b047230c65774f9)
 - [Codewars - MoveZeros](https://gist.github.com/thedom85/47c412640a4e39ff71b01e600d93cea9)
 
 
