@@ -73,5 +73,5 @@
 - [Codewars - ValidParentheses](https://gist.github.com/thedom85/d10c08a3fe78ce32c4197f2bc450b2cc)
 - [Codewars - StripComments](https://gist.github.com/thedom85/45c182e6000355c5d519d71217cf1277)
 - [Codewars - MoveZeros](https://gist.github.com/thedom85/47c412640a4e39ff71b01e600d93cea9)
-
+- [Codewars - Powers of 2](https://gist.github.com/thedom85/925af7428bf28fbd561982ed0715b138)
 
