@@ -41,7 +41,9 @@
 - [Cypress example test register in conduit](https://gist.github.com/thedom85/c0793664edc0c521e46eaf6c61696054)
 - [Cypress example test login in conduit](https://gist.github.com/thedom85/a166b84c33dbcc927705e7f9a72c185e)
 
-
+## Math
+- [isTriangle](https://gist.github.com/thedom85/d4ddf90527248b5ae5d421c0709ee6c6)
+- [Powers of 2](https://gist.github.com/thedom85/925af7428bf28fbd561982ed0715b138)
 
 ## MySql
 -  [Json Extract Example](https://gist.github.com/thedom85/90e30a0d9161ef6b899c238b8e3ffcc2)
@@ -74,4 +76,5 @@
 - [Codewars - StripComments](https://gist.github.com/thedom85/45c182e6000355c5d519d71217cf1277)
 - [Codewars - MoveZeros](https://gist.github.com/thedom85/47c412640a4e39ff71b01e600d93cea9)
 - [Codewars - Powers of 2](https://gist.github.com/thedom85/925af7428bf28fbd561982ed0715b138)
+- [Codewars - isTriangle](https://gist.github.com/thedom85/d4ddf90527248b5ae5d421c0709ee6c6)
 - [Codewars - ListMaxMin](https://gist.github.com/thedom85/9fcb3dfff4ebfce6da0ed58eac486a89)
