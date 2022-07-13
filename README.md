@@ -17,6 +17,7 @@
 - [Ciphers - Vigenère](https://gist.github.com/thedom85/0857ca4e205cd475027f55b964d71615)
 - [Ciphers - Vigenère - Basic](https://gist.github.com/thedom85/f2d5adc3530392d98aac3500f9d35258)
 - [Conversions - RomanNumerals](https://gist.github.com/thedom85/0ca1d5ddf82e7b59cecec4ed6684f7b3)
+- [Math - Combinations ](https://gist.github.com/thedom85/f0c3a44716cad8950b78c48565be827a)
 
 ## Js
 - [Get Args](https://gist.github.com/thedom85/d7e5bc23abcc59be694b869626bd78fe)
