@@ -83,3 +83,4 @@
 - [Codewars - isTriangle](https://gist.github.com/thedom85/d4ddf90527248b5ae5d421c0709ee6c6)
 - [Codewars - ListMaxMin](https://gist.github.com/thedom85/9fcb3dfff4ebfce6da0ed58eac486a89)
 - [Codewars - OneLineTask:CheckRange](https://gist.github.com/thedom85/44f06d58fea1dd7d4d68a32abbbcb6f1)
+- [Codewars - SumWithoutHighestAndLowestNumber](https://gist.github.com/thedom85/d9b2ed63ba396a17d3425f7851af6c7b)
