@@ -56,6 +56,7 @@
 ## Php Laravel 
 - [Laravel 9 info](https://gist.github.com/thedom85/3f368f0db68745bdd00fe86e59f9c845)
 - [Laravel schedule ](https://gist.github.com/thedom85/9339fec821b19bab037e9ba9637b5250)
+- [Laravel queues ](https://gist.github.com/thedom85/80df1f3acf134e9e2cce3b2e13d62b14)
 
 ## Windows
 - [Time Sync](https://gist.github.com/thedom85/dbeb58627adfb3d5c3af)
