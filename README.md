@@ -45,6 +45,7 @@
 ## Math
 - [isTriangle](https://gist.github.com/thedom85/d4ddf90527248b5ae5d421c0709ee6c6)
 - [Powers of 2](https://gist.github.com/thedom85/925af7428bf28fbd561982ed0715b138)
+- [Math - Combinations ](https://gist.github.com/thedom85/f0c3a44716cad8950b78c48565be827a)
 
 ## MySql
 -  [Json Extract Example](https://gist.github.com/thedom85/90e30a0d9161ef6b899c238b8e3ffcc2)
