@@ -87,3 +87,4 @@
 - [Codewars - ListMaxMin](https://gist.github.com/thedom85/9fcb3dfff4ebfce6da0ed58eac486a89)
 - [Codewars - OneLineTask:CheckRange](https://gist.github.com/thedom85/44f06d58fea1dd7d4d68a32abbbcb6f1)
 - [Codewars - SumWithoutHighestAndLowestNumber](https://gist.github.com/thedom85/d9b2ed63ba396a17d3425f7851af6c7b)
+- [Codewars - Is_Really_NaN](https://gist.github.com/thedom85/add18298d27894361d296d8f7a74040c)
