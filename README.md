@@ -90,3 +90,4 @@
 - [Codewars - OneLineTask:CheckRange](https://gist.github.com/thedom85/44f06d58fea1dd7d4d68a32abbbcb6f1)
 - [Codewars - SumWithoutHighestAndLowestNumber](https://gist.github.com/thedom85/d9b2ed63ba396a17d3425f7851af6c7b)
 - [Codewars - Is_Really_NaN](https://gist.github.com/thedom85/add18298d27894361d296d8f7a74040c)
+- [Codewars - Generate Shape](https://gist.github.com/thedom85/eb0fb00ff94835c5b7396cc74cc93a01)
